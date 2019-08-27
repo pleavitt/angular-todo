@@ -2,6 +2,10 @@
 
 A basic todo app
 
+## Demo
+
+[Here](https://optimistic-chandrasekhar-bd89df.netlify.com/)
+
 ## Todo 🥁🥁💥
 
 - Introduce Todo Lists
